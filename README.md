@@ -1,6 +1,6 @@
 # planktonr
 
-The goal of planktonr is to ...
+The goal of planktonr is to support counting plankton on a base plate. Analysts often don’t want to count everything, as that will take ages. Rather, they aim to count as few things as possible without exceeding an acceptable amount of error. `planktonr` helps researchers determine such sample sizes.
 
 ## Installation
 
@@ -14,8 +14,9 @@ devtools::install_github("annakrystalli/planktonr")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+Launch the app by loading the package and running:
 
 ``` r
-## basic example code
+library(planktonr)
+planktr_runApp()
 ```

@@ -3,7 +3,6 @@
 #' @return launches planktonr plankton counting shiny app
 #' @export
 #'
-#' @examples planktr_runApp()
 planktr_runApp <- function() {
     appDir <- system.file("shiny", "app", package = "planktonr")
     if (appDir == "") {

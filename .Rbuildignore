@@ -1,2 +1,4 @@
+^\.travis\.yml$
+^dev$
 ^.*\.Rproj$
 ^\.Rproj\.user$

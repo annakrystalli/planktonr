@@ -1,5 +1,8 @@
 # planktonr
 
+
+[![Travis build status](https://travis-ci.org/annakrystalli/planktonr.svg?branch=master)](https://travis-ci.org/annakrystalli/planktonr)
+
 The goal of planktonr is to support counting plankton on a base plate. Analysts often don’t want to count everything, as that will take ages. Rather, they aim to count as few things as possible without exceeding an acceptable amount of error. `planktonr` helps researchers determine such sample sizes.
 
 ## Installation
